@@ -23,7 +23,7 @@ Figure 1. Running bamazonCustomer.js in commandline for challenge #1. Displays i
 ![figure2](./assets/images/challenge1_screenshot2.jpg)
 Figure 2. Inquirer input does not accepts an out of ranged item_id or 0 as an order quantity. When ordered quantity exceeds inventory then displays "Insufficient Quantity in inventory!!", and shows items table, and restarts order process.
 
-## Progres so far
+## Progress so far
 - MySQL Database called "bamazon" created.
 - A Table called "products" created with columns of 
   - item_id (unique id for each product)
@@ -34,6 +34,7 @@ Figure 2. Inquirer input does not accepts an out of ranged item_id or 0 as an or
 - 10 different products populated in the database.
 - Order function tested.
 - Validation in inquirer successfully operates.
+- Challenge #1 completed.
 
 ## Remark
 Currently completed challenge #1. Will be updated other parts of the assignment. The password for the mysql connection is coded with "" in the bamazonCustomer.js file.
